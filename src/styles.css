@@ -11,7 +11,7 @@
 .about-photo figcaption{position:absolute;z-index:2;left:18px;right:18px;bottom:18px;margin:0;padding:14px 15px;background:#291b19d9;color:var(--paper);text-align:left;font:500 13px/1.4 var(--serif);backdrop-filter:blur(8px)}
 
 /* Off-white quente: reduz o brilho sem perder leveza ou contraste. */
-:root{--porcelain:#f4f0e9;--paper:#d3d2ce;--wine:#353433;--wine-2:#827a72;--ink:#292827;--copper:#aaa096;--champagne:#e5ddd3;--line:#bdbbb5;--muted:#686560}
+:root{--porcelain:#f5efdf;--paper:#d3d2ce;--wine:#353433;--wine-2:#827a72;--ink:#292827;--copper:#aaa096;--champagne:#e5ddd3;--line:#bdbbb5;--muted:#686560}
 .principles{background:var(--paper)}
 
 /* Prévia local: superfícies suaves e contornos inspirados no retrato. */
@@ -46,7 +46,7 @@ blockquote{border-left:0;padding-left:0}
 .contact-steps h3{line-height:1.25}
 .principles{border-radius:48px;margin:0 auto;width:calc(100% - 48px);max-width:1400px;padding:80px clamp(24px,6vw,90px);gap:65px}
 .principle-list{border:0;gap:12px;align-content:center}
-.principle-list span{border:0;border-radius:22px;padding:16px 24px;background:#f4f0e9b3;font:500 15px/1.5 var(--sans)}
+.principle-list span{border:0;border-radius:22px;padding:16px 24px;background:#f5efdfb3;font:500 15px/1.5 var(--sans)}
 .final-cta{margin:24px auto 0;width:calc(100% - 48px);max-width:1400px;border-radius:48px;padding:90px clamp(24px,6vw,90px);min-height:auto}
 .final-pattern{opacity:.2}
 .final-cta>p:not(.eyebrow){color:var(--champagne)}
